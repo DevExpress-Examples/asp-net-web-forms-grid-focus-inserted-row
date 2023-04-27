@@ -13,7 +13,7 @@
 <!-- default file list end -->
 # ASPxGridView - How to focus the newly inserted row
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e3588/)**
+**[[Run Online]](https://codecentral.devexpress.com/128534272/)**
 <!-- run online end -->
 
 
