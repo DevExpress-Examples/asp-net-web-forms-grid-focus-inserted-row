@@ -5,7 +5,7 @@
 <!-- default badges end -->
 # Grid View for ASP.NET Web Forms - How to focus the newly inserted row
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e3588/)**
+**[[Run Online]](https://codecentral.devexpress.com/128534272/)**
 <!-- run online end -->
 
 This example demonstrates how to handle the grid's RowInserted event to focus the newly inserted row.
