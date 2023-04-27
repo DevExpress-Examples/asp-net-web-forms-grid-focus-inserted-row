@@ -38,6 +38,6 @@ protected void grid_RowInserted (object sender, ASPxDataInsertedEventArgs e) {
 * [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 
-## More examples
+## More Examples
 
 * [Grid View for ASP.NET MVC - How to focus the newly inserted row](https://github.com/DevExpress-Examples/gridview-how-to-focus-a-newly-inserted-row-e4787)
