@@ -1,9 +1,9 @@
-﻿Imports Microsoft.VisualBasic
-Imports System
+﻿Imports System
 Imports DevExpress.Xpo
 
 Public Class Customer
 	Inherits XPObject
+
 	Public Sub New(ByVal session As Session)
 		MyBase.New(session)
 	End Sub

@@ -1,5 +1,4 @@
-﻿Imports Microsoft.VisualBasic
-Imports System
+﻿Imports System
 Imports System.Collections.Generic
 Imports System.Linq
 Imports System.Web
@@ -11,6 +10,7 @@ Imports System.Collections
 
 Partial Public Class _Default
 	Inherits System.Web.UI.Page
+
 	Private uof As UnitOfWork = XpoHelper.GetNewUnitOfWork()
 	Protected Sub Page_Init(ByVal sender As Object, ByVal e As EventArgs)
 		XpoDataSource1.Session = uof
@@ -23,7 +23,7 @@ Partial Public Class _Default
 			If objects IsNot Nothing AndAlso objects.Count = 1 Then
 				Dim enumeration As IEnumerator = objects.GetEnumerator()
 				enumeration.MoveNext()
-				Dim obj As Customer = CType(enumeration.Current, Customer)
+				Dim obj As Customer = DirectCast(enumeration.Current, Customer)
 				uof.CommitChanges()
 				newKey = obj.Oid
 			End If
