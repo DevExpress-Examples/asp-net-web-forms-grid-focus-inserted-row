@@ -40,7 +40,7 @@ protected void grid_RowInserted (object sender, ASPxDataInsertedEventArgs e) {
 
 * [Grid View for ASP.NET MVC - How to focus the newly inserted row](https://github.com/DevExpress-Examples/gridview-how-to-focus-a-newly-inserted-row-e4787)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-grid-focus-inserted-row&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-grid-focus-inserted-row&~~~was_helpful=no)
 
